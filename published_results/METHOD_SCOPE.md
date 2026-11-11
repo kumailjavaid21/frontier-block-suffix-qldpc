@@ -1,0 +1,13 @@
+# Method and evidence scope
+
+The preserved b4 recipe is a compiled correlation-lookahead extension to Frontier, with K512, Delta12, alpha0.8 and FP64 under the recorded contracts. Frontier supplies the ordered active-boundary/logical state, probability-mass merging, pruning, logical aggregation and two-order committee. Credit belongs to Anthony Leverrier and Rüdiger Urbanke for the original [Frontier method](https://arxiv.org/html/2606.20513v1); the inspected upstream source is pinned to commit `5d5a60968182eb17cdc12c5ac1949732ead0905b`.
+
+Detector grouping and compiled future-parity tables depend on the model and priors. Within each block the future-parity law is computed exactly; combining block requirements into the score is an approximation across blocks. Exact local tables do not make the pruned decoder globally exact or prove near-maximum-likelihood behavior.
+
+Study A/C10 supports its specific BB144 non-inferiority and warm B128 cost contract against parent K640. Study C/C12 supports the complete preserved b4-versus-B2 recipe comparison on its declared paired cohorts. Study B/C11, smaller all-pair attribution controls, external comparisons and BB288 operating screens retain secondary scope. The parent envelope, different hardware/service regimes and uncertainty limit generalization. Non-significance against an all-pair control is neither equivalence nor evidence that four-way information is necessary. The identity of the authors' reported detector-pair experiment remains unresolved.
+
+The published aggregates retain the existing comparison/control rows, including adverse signs. Embedded status/context fields describe their original historical study, rather than current repository history. `data_compiler_summary.csv` accounts for numeric table-value payload using the formula in `DATA_PROVENANCE.csv`; it does not silently include object, metadata, or runtime-workspace overhead. Batched service is not B1 latency or energy, and recorded single-device scope is not independent multi-device replication.
+
+This results release includes aggregate tables, original result PDFs, provenance and a new read-only aggregate audit. It includes no inherited Frontier/comparator implementation, dependency, matrix/circuit bank, raw shot truth, native/CUDA binary, trained model or replay environment. It cannot reproduce the scientific GPU experiments on its own. The audit reconstructs only the saved aggregate arithmetic, integrity hashes and available exact paired statistics.
+
+No upstream implementation is copied or relicensed. No new decoder, theorem, universal speedup, independent quantum-hardware advantage, priority certificate or journal-readiness claim follows from this release.

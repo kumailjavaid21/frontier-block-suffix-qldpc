@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "checks": 211,
+  "failures": [],
+  "paired_records": 16,
+  "statistical_checks": "Recomputed CP component bounds and saved exact paired one-sided tests using SciPy 1.16.3.",
+  "scope": "Aggregate-table arithmetic and copied-file integrity only. No new scientific samples, decoder calls, timing bootstrap, training, or independent hardware reproduction."
+}
